@@ -2,7 +2,6 @@ package org.man.ecommerceapi.controllers.dtos.responses;
 
 import lombok.Getter;
 import lombok.Setter;
-import java.util.Date;
 
 @Getter
 @Setter
